@@ -1,0 +1,5 @@
+[
+	{"id": 000000001, "ammount": 10, "buyPrice": 5},
+	{"id": 000000002, "ammount": 15, "buyPrice": 1.1},
+	{"id": 000000003, "ammount": 3, "buyPrice": 4.6}
+]
