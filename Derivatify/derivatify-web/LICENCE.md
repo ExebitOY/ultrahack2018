@@ -1,6 +1,6 @@
 MIT LICENCE
 
-Copyright for portions of project Foo are held by Creative Tim, 2018, as part of project Black Dashboard React. All other copyright for project Derivatify-web are held by Exebit Oy, 2018.
+Copyright for portions of project Derivatify-web are held by Creative Tim, 2018, as part of project Black Dashboard React. All other copyright for project Derivatify-web are held by Exebit Oy, 2018.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
